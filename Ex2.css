@@ -1,0 +1,43 @@
+body {
+    width: 300px;
+    border-width: 1px;
+    border-radius: 5px;
+    background-color: rgb(219, 227, 233);
+    padding: 100px;
+
+}
+
+.box {
+    margin-left: 500px;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+.h11 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+label {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    height: 25px;
+    border-width: 1px;
+    width: 250px;
+    border-radius: 3px;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    background-color: rgb(16, 119, 236);
+    height: 30px;
+    width: 250px;
+    border-radius: 3px;
+}
